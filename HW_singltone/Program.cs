@@ -6,7 +6,7 @@ namespace HW_singltone
     {
         static void Main(string[] args)
         {
-            
+            int m = 6;
         }
     }
 }
